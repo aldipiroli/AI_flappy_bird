@@ -1,1 +1,3 @@
-# Flappy-Bird-AI
+# Flappy Bird 
+
+### Used a genetic algortihm to create a dataset & a MLP to create a player that learns how to flapy flappy bird.
